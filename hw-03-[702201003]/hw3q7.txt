@@ -1,0 +1,8 @@
+Burak Çakan - 702201003 - 04.02.2020
+- auto: this keyword gives the flexibility of assigning the data type of a value during the compilation. In the compilation time, if compiler defines the type of variable before auto, this data type is assigned to this variable. Otherwise, error occurs. 
+
+- decltype: it is a sort of an operator to define the type of the variable like typeof()
+
+- Disadvantage of 'bits/stdc++': it is a header file that includes all header files. The disadvantage of it, containing all header file causes higher compilation times. And it is not in the standart of c language that makes it non-portable.
+
+- [] operator is faster than .at(), and another advantage over .at() is that .at() operator forces you to use throw/exception in case when an out-of-range value is used. Totally, using [] is better than .at() function.

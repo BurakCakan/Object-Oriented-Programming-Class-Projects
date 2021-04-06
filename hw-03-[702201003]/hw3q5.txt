@@ -1,0 +1,14 @@
+Burak Çakan - 702201003 - 04.02.2020
+	
+	1. Random access to the matrix elements: for the performance; array>vector>map
+ 	Since map uses a key for the value and vector uses pointer, array is the best for random access.
+
+ 	2. Accessing all elements in a row: for the performance; array>vector>map
+ 	Since map uses a key for the value and vector uses pointer, array is the best for accessing all elements.
+
+ 	3. array>map=vector
+
+	5. In matrix-matrix product, array>vector=map ; because matrix with arrays means pointer of pointers but matrix with vectors means vector of vectors which makes the difference. There is no significant difference btw map and vector.
+
+	4. In dot product, the same as 5th answer is valid for dot product.
+

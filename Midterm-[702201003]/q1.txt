@@ -1,0 +1,12 @@
+
+a) access, access, access, inheritence, access, access, access
+
+b) public, private, any, public, any, any, any
+
+c) public, protected, any, public, any, any, any
+
+d) public/protected, any, any, public/protected, public, protected/private, any 
+
+e) any, any, public, protected/private, any, any, any
+
+f) public, private, protected, protected/private, any, any, any 
